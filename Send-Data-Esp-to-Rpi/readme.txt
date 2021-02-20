@@ -15,4 +15,6 @@ Helpful Commands:
 
 
 
-You can check out details tutorial on youtube 
+You can check out details tutorial on youtube
+https://www.youtube.com/watch?v=OFaow_TPv6s
+
