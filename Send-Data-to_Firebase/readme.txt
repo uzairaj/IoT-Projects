@@ -15,3 +15,4 @@ Helpful Commands:
 -> pip install python-firebase
 
 You can check out details tutorial on youtube
+https://www.youtube.com/watch?v=qtZcX4swoS4
