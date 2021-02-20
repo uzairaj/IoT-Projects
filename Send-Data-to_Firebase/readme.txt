@@ -1,5 +1,5 @@
 This video is the continuation of video in which we send sensor data from Esp8266 to Raspberry Pi. 
-In this video we will be sending sensor data from Raspberry Pi to a reaktime database called Firebase.
+In this video we will be sending sensor data from Raspberry Pi to a realtime database called Firebase.
 
 Helpful Commands:
 -> udo apt-get update
